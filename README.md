@@ -7,14 +7,14 @@ then use <code>$ gulp</code> this Command. If this command say "command is not f
 Then Re-enter <code>$ gulp</code> command. It will work Fine.
 
 # Font-Awesome Compile
-Use <code>@fortawesome/fontawesome-free/code> instead of <code>fontawesome</code> for Use Lateast Font-Awesome.
-If you Want to use Old Font-Awesome, then use normal <code>fontaweome</code> command and use the <code>old-gulpfile.js</code>.</br>
+Use <code>@fortawesome/fontawesome-free/code> instead of <code>fontawesome</code> for Use Latest Font-Awesome.
+If you Want to use Old Font-Awesome, then use normal <code>fontaweome</code> command and use the <code>old-gulpfile.js</code>.
 ### Note:
-Rename the <code>old-gulpfile.js</code> file to <code>gulpfile.js</code> for use old Font-Awesome.
+Rename the <code>old-gulpfile.js</code> file to <code>gulpfile.js</code> for use old Font-Awesome and don't use the new gulpfile.js that contain latest font-awesome.
 
 # Compile Sass & Run Dev Server
 <code>$ npm start</code>
-Files are compiled into <code>/src</code>
+Files are compiled into <code>/src</code> folder.
 
 # Explaination
-<code>gulp-cli</code> mean gulp-Command Line Interface.
+<code>gulp-cli</code> mean gulp-CommandLineInterface.
