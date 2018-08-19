@@ -8,7 +8,9 @@ Then Re-enter <code>$ gulp</code> command. It will work Fine.
 
 # Font-Awesome Compile
 Use <code>@fortawesome/fontawesome-free/code> instead of <code>fontawesome</code> for Use Lateast Font-Awesome.
-If you Want to use Old Font-Awesome, then use normal <code>fontaweome</code> command.
+If you Want to use Old Font-Awesome, then use normal <code>fontaweome</code> command and use the <code>old-gulpfile.js</code>.</br>
+### Note:
+Rename the <code>old-gulpfile.js</code> file to <code>gulpfile.js</code> for use old Font-Awesome.
 
 # Compile Sass & Run Dev Server
 <code>$ npm start</code>
