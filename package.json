@@ -1,7 +1,7 @@
 {
   "name": "bootstrap4",
-  "version": "1.1.0",
-  "description": "Bootstrap 4 and Font-awesome 5.2.0",
+  "version": "1.2.1",
+  "description": "Bootstrap 4 and Font-awesome 5.8.1",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
@@ -24,14 +24,14 @@
   },
   "homepage": "https://github.com/mdsaifurrahmann/bs4-with-git#readme",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.2.0",
-    "bootstrap": "^4.1.3",
-    "jquery": "^3.3.1",
-    "popper.js": "^1.14.4"
+    "@fortawesome/fontawesome-free": "^5.8.1",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.24.6",
+    "browser-sync": "^2.26.5",
     "gulp": "^3.9.1",
-    "gulp-sass": "^4.0.1"
+    "gulp-sass": "^4.0.2"
   }
 }
